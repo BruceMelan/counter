@@ -4,9 +4,9 @@ import random
 import requests
 
 # === SETUP ===
-YOUTUBE_API_KEY = 'AIzaSyC3URfkGlm72SYyxX02yR2HO7V8mOzptl4'
+YOUTUBE_API_KEY = 'AIzaSyCw9jNuc_pAHT0vhrU0wP0H5JufhU4JosA'
 PLAYLIST_ID = 'PLKrq5Qcx0-tiI06GCeQhXoH8kIeLiyQnc'
-TELEGRAM_TOKEN = '8167723720:AAHbKr42Gts55ARUz2guzJQL4jH7YCARb4I'
+TELEGRAM_TOKEN = '8167723720:AAFMOO-KoQ07vC1QK4epzS-gFpXCYWWR4uE'
 
 # Store quiz answers temporarily
 quiz_data = {}
